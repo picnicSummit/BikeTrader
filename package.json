@@ -15,7 +15,11 @@
     "bcrypt-nodejs": "*",
     "body-parser": "*",
     "express": "*",
+    "mongoose": "*",
+    "bcrypt-nodejs": "*",
+    "ng-file-upload": "*",
     "method-override": "^2.3.5",
-    "mongoose": "*"
+    "connect-multiparty": "*"
+  
   }
 }
