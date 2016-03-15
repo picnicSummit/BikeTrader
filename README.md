@@ -14,25 +14,21 @@ Greenfield Project for Telegraph Academy
 
 ## Usage
 
-Some usage instructions
-Requirements
-
-
-
-
-
+- Install dependencies (see below)
+- Start local server
+- Point browser to localhost port 8080
 
 > Some usage instructions
 
 ## Requirements
 
-- Node 0.10.x
-- Redis 2.6.x
-- Postgresql 9.1.x
-- etc
-- etc
-
-## Development
+- Node ^5.0
+- Express ^4.1.3
+- Angular ^1.5.0
+- Angular-mocks ^1.5.0
+- Jquery ^2.2.1
+- Angular-route ^1.5.0
+- Bootstrap ^3.3.6
 
 ### Installing Dependencies
 
@@ -46,11 +42,12 @@ bower install
 
 ### Roadmap
 
+	BikeTrader is the rough beginnings of a local bicycle classifieds and
+bike events listing site.  We will be adding additional functionality and features in time, including a Twitter feed of local bike-oriented events
 
 ## Contributing
 
 See [CONTRIBUTING.md](_CONTRIBUTING.md) for contribution guidelines.
-Installing Dependencies
 
 
 
