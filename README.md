@@ -45,7 +45,8 @@ bower install
 	BikeTrader is the rough beginnings of a local bicycle classifieds and
 	bike events listing site. 
 
-	We will be adding additional functionality and features in time, including a Twitter feed of local bike-oriented events
+	We will be adding additional functionality and features in time,
+	including a Twitter feed of local bike-oriented events
 
 ## Contributing
 
