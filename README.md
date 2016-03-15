@@ -28,7 +28,7 @@ Greenfield Project for Telegraph Academy
 - Angular-route ^1.5.0
 - Bootstrap ^3.3.6
 
-### Installing Dependencies
+## Installing Dependencies
 
 From within the root directory:
 ```sh
@@ -40,7 +40,7 @@ npm install
 bower install
 ```
 
-### Roadmap
+## Roadmap
 
 	BikeTrader is the rough beginnings of a local bicycle classifieds and
 	bike events listing site. 
