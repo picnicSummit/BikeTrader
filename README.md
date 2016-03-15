@@ -48,9 +48,6 @@ bower install
 	We will be adding additional functionality and features in time,
 	including a Twitter feed of local bike-oriented events
 
-## Contributing
-
-See [CONTRIBUTING.md](_CONTRIBUTING.md) for contribution guidelines.
 
 
 
