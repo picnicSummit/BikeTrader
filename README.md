@@ -31,9 +31,11 @@ Greenfield Project for Telegraph Academy
 ### Installing Dependencies
 
 From within the root directory:
-
 ```sh
 sudo npm install -g bower
+```
+Inside the repo:
+```sh
 npm install
 bower install
 ```
