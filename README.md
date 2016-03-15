@@ -43,7 +43,7 @@ bower install
 ### Roadmap
 
 	BikeTrader is the rough beginnings of a local bicycle classifieds and
-bike events listing site.  We will be adding additional functionality and features in time, including a Twitter feed of local bike-oriented events
+	bike events listing site.  We will be adding additional functionality and features in time, including a Twitter feed of local bike-oriented events
 
 ## Contributing
 
