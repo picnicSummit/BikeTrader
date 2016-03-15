@@ -18,8 +18,6 @@ Greenfield Project for Telegraph Academy
 - Start local server
 - Point browser to localhost port 8080
 
-> Some usage instructions
-
 ## Requirements
 
 - Node ^5.0
