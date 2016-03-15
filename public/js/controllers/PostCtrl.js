@@ -1,5 +1,5 @@
-angular.module('PostCtrl', ['ngFileUpload'])
-.controller('PostController', ['$scope', '$timeout', 'PostAd', 'Upload', function($scope, $timeout, PostAd, Upload) {
+angular.module('PostCtrl', [])
+.controller('PostController', ['$scope', '$timeout', 'PostAd', function($scope, $timeout, PostAd) {
 
   $scope.tagline = 'Bike Post Time!';
 

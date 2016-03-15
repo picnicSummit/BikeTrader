@@ -10,7 +10,7 @@ var multipart = require('connect-multiparty');
 var multipartMiddleWare = multipart();
 
 // configure and connect to database
-var db = mongoose.connect('mongodb://tritiatimmins:Harley*8@ds019658.mlab.com:19658/biketrader');
+var db = require('./config/db.js')
 
 var port = process.env.PORT || 8080;
 

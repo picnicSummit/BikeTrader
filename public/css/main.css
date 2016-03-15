@@ -1,11 +1,14 @@
-#filePicker {
-  position: absolute;
-  display: inline-block;
-  left: 200px;
-  top: 100px;
-  z-index: 10000 !important;
+header {
+  background-image: url('../img/lizzieschwinn.jpg');
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: contain;
 }
-
+.nav-link {
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
 .ng-invalid {
   border-color: #FA787E;
 }
@@ -13,8 +16,6 @@
   border-color: #78FA89;
 }
 .ad {
-  /*position: absolute;*/
-  /*left: 100px;*/
   width: 90%;
   background-color: #89ABE3;
   background-opacity: 0.5;

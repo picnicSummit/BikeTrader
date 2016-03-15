@@ -1,5 +1,7 @@
 angular.module('ImageCtrl', ['angular-filepicker'])
 
+  // controller for custom directive that allows 
+  // filepicker widget to work with angular
   .directive('uploadImage', [function () {
     return {
 
@@ -15,13 +17,3 @@ angular.module('ImageCtrl', ['angular-filepicker'])
     };
 
   }]);
-
-
-//   var element = document.getElementById('constructed-widget')
-// element.type="filepicker-dragdrop";
-// element.setAttribute('data-fp-mimetype', 'image/*');
-// element.onchange = function(e){
-//   console.log(JSON.stringify(e.fpfile));
-// };
-
-// filepicker.constructWidget(element);
