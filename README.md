@@ -1,6 +1,10 @@
 # BikeTrader
-Greenfield Project for Telegraph Academy
 
+## A Hub for Bay Area Cyclists
+
+- Buy/Sell/Trade bicycles via our Classifieds
+- Connect with your regional cycling community; find riding partners, share tips, and discuss issues
+- Find local races, rides, and bike-centric events to attend
 
 
 ## Team Picnic Summit
